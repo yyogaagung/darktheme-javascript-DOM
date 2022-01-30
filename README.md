@@ -1,2 +1,2 @@
 # darktheme-javascript-DOM
-belajar memahami DOM
+try to understand DOM
